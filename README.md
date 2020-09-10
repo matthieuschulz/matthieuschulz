@@ -16,7 +16,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuschulz&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuschulz&show_icons=true)](https://github.com/matthieuschulz)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
