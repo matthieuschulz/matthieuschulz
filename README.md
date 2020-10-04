@@ -12,7 +12,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
 
 <br/>
 
