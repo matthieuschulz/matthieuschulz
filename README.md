@@ -16,7 +16,7 @@
 
 <br/>
 
-![Matthieu's github stats (Public Repository Contributions)](https://github-readme-stats.vercel.app/api?username=matthieuschulz&hide=stars,prs,issues,contribs)
+![Matthieu's github stats](https://github-readme-stats.vercel.app/api?username=matthieuschulz&hide=stars,prs,issues,contribs)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
