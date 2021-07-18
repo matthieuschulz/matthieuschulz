@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C | Swift| MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
+- 💻 &nbsp; Python | Java | C | Swift| MATLAB| Flutter
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | NextJS
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git 
+- 🔧 &nbsp; Git | Docker
 
 
 <br/>
