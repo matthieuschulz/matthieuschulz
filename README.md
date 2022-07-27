@@ -3,7 +3,7 @@
 <h3> 😎‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University College London.
+- 🎓 &nbsp; Bsc Computer Science Graduate from University College London.
 
 
 <h3>🛠 Tech Stack</h3>
