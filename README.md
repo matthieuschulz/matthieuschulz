@@ -15,9 +15,10 @@
 
 
 <br/>
-
+<!--
 ![Matthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthieuschulz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) 
 
+-->
 <h>&nbsp;&nbsp;&nbsp;&nbsp;</h>
 <a href="https://github.com/matthieuschulz">
   <img vertical-align="center" margin="25px" src="https://visitor-badge.glitch.me/badge?page_id=${matthieuschulz}.${matthieuschulz}" />  
