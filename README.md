@@ -3,7 +3,7 @@
 <h3> 😎‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Bsc Computer Science Graduate from University College London.
+- 🎓 &nbsp; MS Data Science at Columbia University and Bsc Computer Science Graduate from University College London.
 
 
 <h3>🛠 Tech Stack</h3>
