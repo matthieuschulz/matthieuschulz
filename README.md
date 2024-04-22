@@ -2,14 +2,14 @@
 
 <h3> 😎‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 😄 &nbsp; Building something new in AI.
 - 🎓 &nbsp; MS Data Science at Columbia University and Bsc Computer Science Graduate from University College London.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R | Java | C | Swift| MATLAB| Flutter
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | NextJS
+- 💻 &nbsp; Python | Java | C 
+- 🌐 &nbsp; Node.js | ReactJS | NextJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Docker
 
@@ -32,3 +32,4 @@
 <a href="https://www.linkedin.com/in/matthieuschulz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Schulz-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:matthew.schulz.19@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.schulz.19@ucl.ac.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
+
