@@ -11,7 +11,7 @@ Deployment: Vercel
 AI: OpenAI GPT-4
 Styling: Tailwind CSS
 Language: TypeScript
-<h3>🔬 Data Science & AI Expertise</h3>
+<h3>🔬 Data Science & AI </h3>
 Specializations:
 Machine Learning (Supervised & Unsupervised Learning)
 Deep Learning (Computer Vision, Neural Networks)
@@ -26,4 +26,4 @@ Pandas | NumPy | Matplotlib
 🛢   MySQL | MongoDB
 🔧   Git | Docker
 <h3>📈 GitHub Stats</h3> <!-- Uncomment below to display GitHub stats --> <!-- ![Matthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthieuschulz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) --> <a href="https://github.com/matthieuschulz"> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=matthieuschulz.matthieuschulz" /> </a>
-<h3>🤝🏻 Connect with Me</h3> <p align="center"> <a href="http://www.matthieuschulz.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthieuschulz.me-blue?style=flat-square&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/matthieuschulz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthieu%20Schulz-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:matthew.schulz.19@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.schulz.19@ucl.ac.uk-blue?style=flat-square&logo=gmail"></a> </p>
+<h3>🤝🏻 Connect with Me</h3> <p align="center"> <a href="http://www.matthieuschulz.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthieuschulz.me-blue?style=flat-square&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/matthieuschulz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthieu%20Schulz-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:matthieu@orsay.ai"><img alt="Email" src="https://img.shields.io/badge/Email-matthieu@orsay.ai-blue?style=flat-square&logo=gmail"></a> </p>
